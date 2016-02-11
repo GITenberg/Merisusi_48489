@@ -1,0 +1,32 @@
+_repo: Merisusi_48489
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setälä, Helmi
+    - Helmi Setälä
+    - Setala, Helmi
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2015-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48489'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Merisusi
+url: http://www.gutenberg.org/ebooks/48489
