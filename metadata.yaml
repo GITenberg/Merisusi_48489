@@ -1,4 +1,5 @@
 _repo: Merisusi_48489
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Krohn, Helmi
@@ -10,6 +11,9 @@ contributor:
     deathdate: 1967
     gutenberg_agent_id: '31724'
     url: http://www.gutenberg.org/2009/agents/31724
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -20,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48489#Merisusi
 gutenberg_issued: '2015-03-14'
 gutenberg_type: Text
 identifiers:
